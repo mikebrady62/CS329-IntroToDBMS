@@ -1,0 +1,9 @@
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+  <p>&copy; 2017 AS & MB All rights reserved.</p>
+</footer>
+
+</body>
+</html>
